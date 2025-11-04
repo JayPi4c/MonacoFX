@@ -94,7 +94,7 @@ public class Document {
     }
 
     public String getText() {
-        return textProperty().get();
+        return textProperty().get() == null ? "" : textProperty().get();
     }
 
     public ReadOnlyIntegerProperty numberOfLinesProperty() {

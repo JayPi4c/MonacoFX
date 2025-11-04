@@ -6,7 +6,7 @@
 
     <groupId>eu.mihosoft</groupId>
     <artifactId>monacofx</artifactId>
-    <version>0.9.0</version>
+    <version>0.10.0</version>
     <name>MonacoFX</name>
     <description>JavaFX Monaco Editor Wrapper</description>
     <url>https://github.com/JayPi4c/monacofx</url>
